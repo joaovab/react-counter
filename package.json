@@ -1,7 +1,7 @@
 {
   "name": "counter-app",
   "version": "0.1.0",
-  "homepage": "https://joaovab.github.io/react-gh-pages",
+  "homepage": "https://joaovab.github.io",
   "dependencies": {
     "bootstrap": "4.1.1",
     "react": "^16.4.2",
