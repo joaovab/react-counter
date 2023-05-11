@@ -55,7 +55,7 @@ class App extends Component {
     return (
       <React.Fragment>
         <NavBar totalCounters={this.state.counters.filter(c => c.value > 0).length} />
-        <p>Joao Vitor Amancio Barroso DRE:11941349
+        <p className="mx-5">Joao Vitor Amancio Barroso DRE:11941349
           Thais Machado Ferreira DRE:119141644</p>
         <main role="main" className="container">
           <Counters
